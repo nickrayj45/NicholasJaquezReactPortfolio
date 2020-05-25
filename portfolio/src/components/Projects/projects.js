@@ -2,9 +2,9 @@ import React from "react";
 
 function Resume(){
     return (
-        <div className="resume">
+        <div className="portfolio">
             <h1>
-                Resume
+                Portfolio
             </h1>
         </div>
     )
