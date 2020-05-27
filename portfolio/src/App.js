@@ -6,6 +6,7 @@ import Wrapper from "./components/Wrapper/wrapper";
 import Contact from "./components/Contact/contact";
 import Projects from "./components/Projects/projects";
 import Header from "./components/Header/header";
+import Footer from "./components/Footer/footer";
 
 // class App extends Component {
 //   render(){
@@ -27,6 +28,7 @@ function App() {
      <HomePage />
      <Projects />
      <Contact />
+     <Footer />
     </Wrapper>
   </div>
   );

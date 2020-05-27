@@ -5,9 +5,9 @@ function header() {
     return (
       <div className="header">
           <tr>
-              <td a href="www.google.com">Home</td>
+              <td to="www.google.com">Home</td>
               <td>Projects</td>
-              <td>Contacts</td>
+              <td>Contact</td>
           </tr>
       </div>
     );
