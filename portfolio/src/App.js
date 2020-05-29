@@ -11,11 +11,14 @@ import Footer from "./components/Footer/footer";
 // class App extends Component {
 //   render(){
 //     return (
-//       <Header>
-//         <div>
-//           Header
-//         </div>
-//       </Header>
+    
+//       <Wrapper>
+//            <Header />
+//             <HomePage />
+//             <Projects />
+//            <Contact />
+//             <Footer />
+//            </Wrapper>
 //     )
 //   }
 // }
