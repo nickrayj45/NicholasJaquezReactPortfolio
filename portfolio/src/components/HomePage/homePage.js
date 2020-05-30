@@ -6,7 +6,7 @@ function homePage() {
   return (
     <div className="homePage">
       <h1>Nicholas Jaquez</h1>
-      <h2>Full-Stack Web Developer</h2>
+      <h3>Full-Stack Web Developer</h3>
       <h3>HTML/CSS || Node JS || Express || React || MongoDB || MySQL</h3>
     
     

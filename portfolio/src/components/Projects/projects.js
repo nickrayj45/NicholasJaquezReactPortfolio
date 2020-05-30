@@ -12,22 +12,9 @@ function Resume(){
                 <p><a href="https://github.com/mchisem/Weather-or-Not">Weather or Not</a></p>
                 <p><a href="https://stark-sands-40022.herokuapp.com/">The Progressive Budget App</a></p>
                 <p><a href="https://stark-forest-71498.herokuapp.com/?id=5eade51e1a393f0017ed331b">The Fitness Tracker App</a></p>
-                <p><a href="https://stark-forest-71498.herokuapp.com/?id=5eade51e1a393f0017ed331b">The Burger App</a></p>
+                <p><a href="https://frozen-cove-72055.herokuapp.com/burgers">The Burger App</a></p>
                 <p><a href="https://polar-spire-92196.herokuapp.com/">Employee Directory</a></p>
             </div>
-            {/* <tr>
-               
-                <td>
-                    The Weather App
-                </td>
-                <td>
-                    The Burger App
-                </td>
-                <td>
-                    Note Taker
-                </td>
-                
-            </tr> */}
         </div>
     )
 }
