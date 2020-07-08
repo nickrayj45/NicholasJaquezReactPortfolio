@@ -38,5 +38,7 @@
 }
 
 body {
-  background-image: url("../src/images/LA.jpg");
+  /* background-image: url("../src/images/luke-chesser-CxBx_J3yp9g-unsplash.jpg"); */
+  color: white;
+  background: black;
 }

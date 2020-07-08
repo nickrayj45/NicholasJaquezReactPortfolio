@@ -1,9 +1,18 @@
 .projects {
     text-align: center;
     border-spacing: 5px;
+    color: white;
 }
 
 td {
     text-align: center;
     border-spacing: 5px;
+}
+
+body {
+    color: white;
+}
+
+a {
+    color: white;
 }
