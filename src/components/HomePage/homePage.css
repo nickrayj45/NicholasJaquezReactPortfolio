@@ -1,12 +1,17 @@
 .homePage {
     text-align: center;
     margin: auto;
+    padding: 1%;
 }
 
 .aboutMe {
     text-align: center;
     margin: auto;
 }
+
+/* .content {
+    border: 20%
+} */
 
 p {
     text-align: center;
